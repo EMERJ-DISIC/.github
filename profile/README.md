@@ -1,8 +1,7 @@
-## EMERJ-DISIC - Departamento de Tecnologia da Informação da EMERJ
+## EMERJ-DISIC/DETEC - Departamento de Tecnologia da Informação da EMERJ
 
-### Projetos do DISIC
+### Projetos DISIC
 
-[emerj.com.br/site](https://emerj.com.br/site/) <br>
 emerj.detec@tjrj.jus.br
 
 <!--
