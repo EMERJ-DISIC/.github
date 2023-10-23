@@ -1,4 +1,4 @@
-## EMERJ-DISIC/DETEC - Departamento de Tecnologia da Informação da EMERJ
+## EMERJ-DETEC - Departamento de Tecnologia da Informação da EMERJ
 
 ### Projetos DISIC
 
